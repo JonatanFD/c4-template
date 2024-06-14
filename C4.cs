@@ -12,9 +12,9 @@ namespace c4_model_template
   public class C4
   {
 
-    private readonly long workspaceId = 91929;
-    private readonly string apiKey = "017dc3ac-e064-48dc-bdd0-2fcb7e21e3d7";
-    private readonly string apiSecret = "35c0a5c8-b620-40fc-9f88-3417fc5ec840";
+    private readonly long workspaceId = ;
+    private readonly string apiKey = "";
+    private readonly string apiSecret = "";
 
     public StructurizrClient StructurizrClient { get; set; }
     public Workspace Workspace { get; set; }
